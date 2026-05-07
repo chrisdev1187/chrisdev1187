@@ -79,7 +79,7 @@ I love people, complex systems, and digging into things most devs walk past. Cur
 
 <div align="center">
 
-**🌍 Vaal Triangle, South Africa · Available to relocate**
+**🌍 South Africa · Available to relocate**
 
 [![Website](https://img.shields.io/badge/agent0.co.za-F7A325?style=for-the-badge)](https://agent0.co.za)
 [![YouTube](https://img.shields.io/badge/TropicUnion-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@TropicUnion)
