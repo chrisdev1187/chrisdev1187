@@ -1,200 +1,91 @@
-<!-- This file goes in a repo named exactly: chrisdev1187 (same as your username) -->
-<!-- Create repo → add README.md → paste this → GitHub renders it as your profile page -->
-
 <div align="center">
 
-# 🇿🇦 Christiaan Bothma
-
-### `AI_ARCHITECT` · `AGENT_BUILDER` · `FOUNDER`
-
-**I build autonomous AI systems that cost less to run than anyone expects.**
-*Close client Monday. Deploy Friday. Train team. Hand them docs. They're self-sufficient.*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7A325&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B+I'm+Christiaan;AI+Architect+%7C+Agent+Builder+%7C+Founder;Making+AI+cheaper+to+run+%F0%9F%87%BF%F0%9F%87%A6;Decoding+systems+since+day+one)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## `> cat profile.json | jq '.reality'`
+🇿🇦 South African dev. Self-taught. 12 years building things — web, apps, marketing, film, sales. Now fully locked into **agentic AI and game systems**.
 
-Self-taught. Claude-native. Full-stack. 12 years across film, graphic design, web, hospitality tech, enterprise sales — now building production-grade agentic platforms under real API cost constraints.
+My obsession: **AI doesn't need to cost what it costs.** I built LEXAgent at Harvey AI quality for ~92% less by letting the constraints force better decisions. That's the whole philosophy in one project.
 
-Founder of **Agent 0** — a personal agentic OS that went through two complete architectural rebuild cycles (CrewAI → LangGraph → custom N8N hybrid). I didn't pick N8N because it was easy. I picked it after hands-on research across LangChain, LangGraph, CrewAI, Flowise, Paperclip, Open Claw, and Clawd Flow. It's the most robust, maintainable, and client-adoptable stack for real business deployments.
+I love people, complex systems, and digging into things most devs walk past. Currently reverse-engineering a 1999 game's binary formats for fun. Building autonomous pipelines for real clients for work. Probably training a model somewhere in between.
 
-The constraint that shaped everything: **API cost**. Building LEXAgent at Harvey AI quality meant the architecture *had* to be efficient — there was no budget to be wasteful. That's not a limitation. That's a better engineer.
-
----
-
-## `> cat metrics.json`
-
-| | |
-|---|---|
-| **200+** | Agents built — production & prototype across 2 major platforms |
-| **10+** | Pipelines live — content, BPO, legal, brand, sales automation |
-| **8** | WordPress plugins shipped with Freemius licensing infrastructure |
-| **3** | Major platforms — Agent 0 Alpha · Agent 0 v0.2 · LEXAgent |
-| **3+** | Years deep in Anthropic & agentic stack specialisation |
+- 🔭 Building → **Agent 0** — agentic OS with 200+ agents across 2 full rebuild cycles
+- 🏛️ Shipped → **LEXAgent** — US/SA legal research platform, ~92% lower op cost than incumbents
+- ⚙️ Running → **BPO pipeline** — 300 jobs/day · 11 accounts · zero human touchpoints
+- 🎮 Obsessed with → game archaeology, reverse engineering, making things run leaner
+- 🌱 Always → testing models on HuggingFace, fine-tuning with Unsloth, building custom pipelines
+- 📦 On npm → [`waterfall-llm`](https://github.com/chrisdev1187/waterfall-llm) — multi-provider LLM failover orchestrator
 
 ---
 
-## `[00]` GOVERNING PHILOSOPHY
+### 🛠️ Tech Stack
 
-### ⚡ Golden Rule
-> Before writing a single line of code, research existing repos and solutions first — build on what exists, never reinvent from scratch. Leverage the open-source ecosystem: patch, extend, integrate.
+<div align="center">
 
-### 🔗 Silver Rule
-> There is almost always a free alternative. ~80% of the time it exists and works. The 20% we build from scratch — using the Golden Rule as the foundation.
+**Languages**
 
-### 🛡️ 100-Point Enterprise Quality Gate
-> Every system I ship is scored against a 100-point quality gate. Minimum 80 to reach production. Built this after shipping one system that *technically worked* and wasn't good enough. Won't do that again.
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python,html,css,php&theme=dark)](https://skillicons.dev)
 
-### 🧠 AI Fluency
-> Not just tool usage. Decomposing complex goals into agent-executable tasks. Designing prompt chains that produce reliable outputs. Architecting systems where AI and human judgment complement each other at the right layers.
+**Frontend & Backend**
 
----
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,threejs,wordpress&theme=dark)](https://skillicons.dev)
 
-## `[01]` TECH STACK
+**Infrastructure**
 
-### Agentic & Orchestration
-![N8N](https://img.shields.io/badge/N8N-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square)
-![Anthropic API](https://img.shields.io/badge/Anthropic_API-D97757?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=flat-square)
-![Letta/MemGPT](https://img.shields.io/badge/Letta_MemGPT-6B46C1?style=flat-square)
+[![My Skills](https://skillicons.dev/icons?i=supabase,redis,vercel,github,vscode&theme=dark)](https://skillicons.dev)
 
-### LLM Layer
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
-![LiteLLM](https://img.shields.io/badge/LiteLLM-000000?style=flat-square)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Unsloth](https://img.shields.io/badge/Unsloth-Model_Training-orange?style=flat-square)
+**AI & Agents**
 
-### Full-Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
-![Upstash Redis](https://img.shields.io/badge/Upstash_Redis-00C389?style=flat-square)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
-![fal.ai](https://img.shields.io/badge/fal.ai-Image_AI-purple?style=flat-square)
+![Anthropic](https://img.shields.io/badge/Anthropic-D97757?style=for-the-badge)
+![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
+![LiteLLM](https://img.shields.io/badge/LiteLLM-000?style=for-the-badge)
+![VAPI](https://img.shields.io/badge/VAPI-Voice_AI-222?style=for-the-badge)
+
+</div>
 
 ---
 
-## `[02]` FEATURED BUILDS
+### 📊 GitHub Stats
 
-### 🏛️ LEXAgent — AI Legal Intelligence Platform
-*Harvey AI-grade. ~92% lower operating cost. South African law localised.*
+<div align="center">
 
-Full legal research and strategy platform built under real API cost constraints — constraints that forced better architecture. 11 case workspace tabs, judge profiling, SAFLII citation retrieval, Roman-Dutch law localisation, POPIA/LPC compliance engine. Production React JSX. MVP-proven, pre-pitch stage.
+<img src="https://github-readme-stats.vercel.app/api?username=chrisdev1187&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F7A325&icon_color=F7A325" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisdev1187&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F7A325" height="165"/>
 
-`Anthropic API` · `N8N Agentic Flows` · `React` · `Supabase` · `LangGraph` · `Cost-Constrained Architecture`
+</div>
 
----
+<div align="center">
 
-### ⚙️ Autonomous BPO Pipeline
-*Zero human touchpoints. Intake to quality-checked delivery.*
+[![GitHub Streak](https://streak-stats.demolab.com?user=chrisdev1187&theme=tokyonight&hide_border=true&background=0D1117&fire=F7A325&ring=F7A325&currStreakLabel=F7A325)](https://git.io/streak-stats)
 
-Fully autonomous business process pipeline. Processes 300 jobs/day across 11 client accounts. Eliminates 15+ hrs/week manual work. No human in the loop from client intake through delivery.
-
-`N8N` · `Agentic Flows` · `Anthropic API` · `Supabase`
+</div>
 
 ---
 
-### 🤖 Agent 0 — Agentic OS
-*200+ agents. Two complete architectural rebuild cycles. Production-proven.*
+### ⚡ Philosophy
 
-Personal agentic operating system for business. Visual drag-and-drop Workflow Canvas — describe any automation, AI constructs the graph. Content Engine (SEO, social, email — auto-published). Brand Engine (scan, audit, generate). Job Hunter Agent (Reed, Adzuna, LinkedIn scraper with scoring and automated applies). Went through full rebuild from CrewAI → N8N hybrid after real-world testing across the entire agent framework landscape.
+> *Golden Rule — research before you build. The open-source ecosystem has 80% of what you need. The other 20% you build from scratch, using the same rule.*
 
-`CrewAI` · `N8N` · `Claude Code` · `Anthropic API` · `React` · `Python` · `TypeScript`
-
----
-
-### [`waterfall-llm`](https://github.com/chrisdev1187/waterfall-llm) — LLM Provider Orchestrator *(npm)*
-*Route intelligently. Fail gracefully. Pay less.*
-
-Lightweight failover-based LLM orchestrator. Tries providers sequentially — first success wins. Dynamic model-based priority ordering. OpenAI-compatible. Published on npm.
-
-`TypeScript` · `LLM Routing` · `Multi-Provider Failover` · `Cost Optimisation`
-
----
-
-### [`ARES-6.0`](https://github.com/chrisdev1187/ARES-6.0) — Multi-Agent Legal Research OS
-*Severed from LEXAgent for benchmarking and model selection testing.*
-
-Full agentic desktop suite: multi-provider waterfall, persistent LexMemory graph, Evaluator-Critic loop with auto-revision, multi-agent debate mode for high-stakes analysis. TypeScript bridge + Python GUI architecture.
-
-`TypeScript` · `Python` · `Multi-Agent` · `Graph Memory` · `Evaluator Loop`
-
----
-
-### [`Revenant-Asset-Studio`](https://github.com/chrisdev1187/Revenant-Asset-Studio) — Game Archaeology
-*Decoding a 1999 game's binary formats from scratch.*
-
-Reverse-engineered asset browser, viewer and exporter for Revenant (Monolith Productions, 1999). World maps 100% decoded. Sprites 90%. Binary texture decoders, zone map exporters, archive extractors. Built on community research — credits: nuxdie, MathJazz, benjcooley.
-
-`Python` · `Binary Parsing` · `Reverse Engineering` · `Game Dev`
-
----
-
-### 🎵 Tropic Union — AI Music Brand
-End-to-end creative AI pipeline — composition, production, visual generation, publishing. Built with Suno AI v5 using structured prompt frameworks. Active on YouTube.
-
-`Suno AI` · `Prompt Engineering` · `Creative AI Pipeline`
-
----
-
-## `[03]` MODEL WORK
-
-Beyond API calls — going into the model layer:
-
-- **Fine-tuning with Unsloth** — efficient model training on custom datasets
-- **HuggingFace model evaluation** — tested hundreds of models for task-specific deployment
-- **Custom model builds** — built models using open Claude stack optimised for specific agentic tasks
-- **Task-model matching** — the right model for the right job is a cost and quality decision, not a default setting
-
----
-
-## `[04]` CERTIFICATIONS
-
-- 🟠 **Training System Engineer** — Claude Academy · Anthropic
-- 🟠 **Claude Code — Advanced** — Claude Academy · Anthropic
-- 🔗 **LangChain Developer** — Self-directed
-- 🤖 **Autonomous AI Agents** — DeepLearning.AI
-- 🧠 **AI Fluency Foundation & Framework** — Anthropic ecosystem
-- 💻 **Microsoft Certified** — HTML5 · JS · CSS3
-
----
-
-## `[05]` BACKGROUND
-
-12 years across IT, creative industries, and enterprise sales. Film production (Second AD on industrial safety films across African mines and manufacturing). Graphic design, hospitality marketing, enterprise RFID/NFC sales. Every domain taught a different way to read systems — and all of it feeds into how I architect AI now.
+> *Quality Gate — 100 points. Minimum 80 to ship. Built this after shipping something that technically worked and wasn't good enough.*
 
 ---
 
 <div align="center">
 
-**🇿🇦 Vaal Triangle, South Africa · Available for relocation**
+**🌍 Vaal Triangle, South Africa · Available to relocate**
 
-[agent0.co.za](https://agent0.co.za) · chris@agent0.co.za · [YouTube/@TropicUnion](https://youtube.com/@TropicUnion)
+[![Website](https://img.shields.io/badge/agent0.co.za-F7A325?style=for-the-badge)](https://agent0.co.za)
+[![YouTube](https://img.shields.io/badge/TropicUnion-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@TropicUnion)
+[![Instagram](https://img.shields.io/badge/tropicunion-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tropicunion)
+[![Email](https://img.shields.io/badge/chris@agent0.co.za-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chris@agent0.co.za)
 
-*AI automation retainers · Voice AI (VAPI) · White-label delivery · Agentic system builds*
+![Visitor Count](https://komarev.com/ghpvc/?username=chrisdev1187&color=F7A325&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
-
-<!--
-**chrisdev1187/chrisdev1187** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
