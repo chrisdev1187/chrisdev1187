@@ -14,7 +14,6 @@ I love people, complex systems, and digging into things most devs walk past. Cur
 
 - 🔭 Building → **Agent 0** — agentic OS with 200+ agents across 2 full rebuild cycles
 - 🏛️ Shipped → **LEXAgent** — US/SA legal research platform, ~92% lower op cost than incumbents
-- ⚙️ Running → **BPO pipeline** — 300 jobs/day · 11 accounts · zero human touchpoints
 - 🎮 Obsessed with → game archaeology, reverse engineering, making things run leaner
 - 🌱 Always → testing models on HuggingFace, fine-tuning with Unsloth, building custom pipelines
 - 📦 On npm → [`waterfall-llm`](https://github.com/chrisdev1187/waterfall-llm) — multi-provider LLM failover orchestrator
